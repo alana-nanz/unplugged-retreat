@@ -298,12 +298,25 @@ aside {
   flex-flow: row wrap;
 }
 
+.features-item-description {
+  text-align: center;
+}
+
 .features article {
   width: 63%;
 }
 
 .features p {
   margin: 0;
+}
+
+.features i {
+  margin: 40px 0;
+}
+
+.fontawesome-icon{
+  text-align: center;
+  font-size: 3.75em;
 }
 
 /* Reviews */
