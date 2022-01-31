@@ -578,6 +578,11 @@ aside {
     margin-bottom: 30px;
   }
 
+  .features .features-items {
+    display: flex;
+    align-items: flex-start;
+  }
+
   /* Reviews */
 
   .reviews article {
@@ -707,12 +712,6 @@ aside {
   .features article {
     flex-basis: 33%;
   }
-
-  .features-items {
-    display: flex;
-    align-content: flex-start;
-  }
-  
 
   /*Reviews*/
   
