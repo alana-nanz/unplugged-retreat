@@ -351,6 +351,10 @@ aside {
   width: 55%;
 }
 
+.reviews div.content-wrapper {
+  margin: 25px 0 50px 0;
+}
+
 
 /* ==========================================================================
    About Page
@@ -602,6 +606,10 @@ aside {
   .reviews h3 {
     width: 75%;
     margin: 0;
+  }
+
+  .reviews div.content-wrapper {
+    margin: 25px 0 50px 0;
   }
 
   /*Footer*/
